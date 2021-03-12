@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string name="button">Convert</string>
+    <string name="rate">Convertion rate</string>
+    <string name="dollar">Enter in dollars</string>
+    <string name="error_message">Please enter a valid number</string>
+</resources>
